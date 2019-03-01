@@ -96,7 +96,7 @@ body {
   width: 100%;
 }
 
-/* Clear floats after the every columns */
+/* Clear floats after the every column */
 .row:after {
   content: "";
   display: table;
