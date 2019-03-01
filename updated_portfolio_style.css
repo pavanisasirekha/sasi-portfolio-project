@@ -82,7 +82,7 @@ body {
   margin-left: 15px;
 }
 
-/* Creates two equal columns that floats next to  each other */
+/* Creates two equal columns that floats both to  each other */
 .column {
   float: left;
   width: 33.33%;
